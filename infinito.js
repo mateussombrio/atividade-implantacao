@@ -4,4 +4,4 @@ while( num > 0) {
   console.log(num);
 }
 
-// Infinit0
+// Infinit
