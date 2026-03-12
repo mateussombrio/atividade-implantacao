@@ -3,7 +3,7 @@ const soma = (num1, num2) => {
 };
 
 
-// Par ou impar
+// Par ou impare
 
 const parOuImpar = (num) => {
   if (num == 0){
