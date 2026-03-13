@@ -1,7 +1,8 @@
-const num = 1;
+const num = 10;
 
 while( num > 0) {
   console.log(num);
+  num++
 }
 
 // Infinito
