@@ -5,20 +5,10 @@ const soma = (num1, num2) => {
 
 // Par ou impare
 
-const parOuImpar = (num) => {
-  if (num == 0){
-    return "Par";
+const parOuImpar = (num) =>{
+  if (num % 2 == 0) {
+    console.log("É par")
+  }else{
+    console.log("É ímpar.")
   }
-  if (num == 1){
-    return "Impar";
-  }
-  if (num == 2){
-    return "Par";
-  }
-  if (num == 3){
-    return "Impar";
-  }
-  if (num == 4){
-    return "Par";
-  } 
 }
